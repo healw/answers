@@ -40,6 +40,8 @@ public class finalPrices1475 {
                 stack.push(list);
             }
         }
+
+
         while(!stack.isEmpty()){
             List<Integer> popIs = stack.pop();
             if(popIs.size() == 1){
