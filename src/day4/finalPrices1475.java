@@ -8,7 +8,7 @@ import java.util.Stack;
  * @Package:day4
  * @Author: wyb
  * @DATE:2022/9/1
- * @Description:
+ * @Description: 力扣 T 1475
  */
 public class finalPrices1475 {
     public static void main(String[] args) {
